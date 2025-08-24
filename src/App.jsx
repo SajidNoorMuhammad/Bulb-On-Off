@@ -5,7 +5,7 @@ function App() {
   const [bulb, setBulb] = useState('off')
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900 text-white">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-black text-white">
       <div className="mb-10">
         <img
           className="h-90 rounded-4xl drop-shadow-2xl transition-all duration-500"
